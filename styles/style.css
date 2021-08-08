@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #283C5D!important;
+}
+.navbar-nav{
+    align-items: center;
+}
+
+.nav-item{
+    margin:0 10px;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+
+.link-btn{
+    background-color: rgb(251,178,0);
+    color: rgb(40,60,93);
+    padding: 5px 40px;
+    border-radius: 5px;
+}
+
+.link-btn .nav-link{
+    color:#283C5D !important;
+    font-weight: 700;
+}
